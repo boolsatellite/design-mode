@@ -1,0 +1,5 @@
+/home/satellite/workspace/design-mode/build/CMakeFiles/edit_cache.dir
+/home/satellite/workspace/design-mode/build/CMakeFiles/rebuild_cache.dir
+/home/satellite/workspace/design-mode/build/Template/CMakeFiles/template.dir
+/home/satellite/workspace/design-mode/build/Template/CMakeFiles/edit_cache.dir
+/home/satellite/workspace/design-mode/build/Template/CMakeFiles/rebuild_cache.dir
