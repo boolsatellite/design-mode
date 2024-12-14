@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/satellite/workspace/design-mode/build/Template",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/template.dir/main.cc.o -c /home/satellite/workspace/design-mode/Template/main.cc",
-  "file": "/home/satellite/workspace/design-mode/Template/main.cc"
-}
-]
