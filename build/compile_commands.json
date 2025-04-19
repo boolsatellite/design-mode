@@ -1,7 +1,8 @@
 [
 {
-  "directory": "/home/satellite/workspace/design-mode/build/Template",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/template.dir/main.cc.o -c /home/satellite/workspace/design-mode/Template/main.cc",
-  "file": "/home/satellite/workspace/design-mode/Template/main.cc"
+  "directory": "/home/satellite/workspace/design-mode/build",
+  "command": "/usr/bin/g++ -g -o part1/CMakeFiles/template.dir/main.cc.o -c /home/satellite/workspace/design-mode/part1/main.cc",
+  "file": "/home/satellite/workspace/design-mode/part1/main.cc",
+  "output": "part1/CMakeFiles/template.dir/main.cc.o"
 }
 ]
