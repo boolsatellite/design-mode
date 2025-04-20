@@ -4,5 +4,11 @@
   "command": "/usr/bin/g++ -g -o part1/CMakeFiles/template.dir/main.cc.o -c /home/satellite/workspace/design-mode/part1/main.cc",
   "file": "/home/satellite/workspace/design-mode/part1/main.cc",
   "output": "part1/CMakeFiles/template.dir/main.cc.o"
+},
+{
+  "directory": "/home/satellite/workspace/design-mode/build",
+  "command": "/usr/bin/g++ -g -o part2/CMakeFiles/builder.dir/builder.cc.o -c /home/satellite/workspace/design-mode/part2/builder.cc",
+  "file": "/home/satellite/workspace/design-mode/part2/builder.cc",
+  "output": "part2/CMakeFiles/builder.dir/builder.cc.o"
 }
 ]
