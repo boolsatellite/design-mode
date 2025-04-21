@@ -6,3 +6,6 @@
 /home/satellite/workspace/design-mode/build/part2/CMakeFiles/builder.dir
 /home/satellite/workspace/design-mode/build/part2/CMakeFiles/edit_cache.dir
 /home/satellite/workspace/design-mode/build/part2/CMakeFiles/rebuild_cache.dir
+/home/satellite/workspace/design-mode/build/part3/CMakeFiles/methodFactory.dir
+/home/satellite/workspace/design-mode/build/part3/CMakeFiles/edit_cache.dir
+/home/satellite/workspace/design-mode/build/part3/CMakeFiles/rebuild_cache.dir
