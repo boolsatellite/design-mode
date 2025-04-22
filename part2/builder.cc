@@ -242,3 +242,5 @@ void foo() {
                  .as_a("Consultant")
                  .earning(10e6);
 }
+
+int main() { }

@@ -162,3 +162,5 @@ public:
     return factories[name]();
   }
 };
+
+int main() {}

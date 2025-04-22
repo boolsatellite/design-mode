@@ -16,5 +16,11 @@
   "command": "/usr/bin/g++ -g -o part3/CMakeFiles/methodFactory.dir/methodFactory.cc.o -c /home/satellite/workspace/design-mode/part3/methodFactory.cc",
   "file": "/home/satellite/workspace/design-mode/part3/methodFactory.cc",
   "output": "part3/CMakeFiles/methodFactory.dir/methodFactory.cc.o"
+},
+{
+  "directory": "/home/satellite/workspace/design-mode/build",
+  "command": "/usr/bin/g++ -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -g -o part4/CMakeFiles/prototype.dir/prototype.cc.o -c /home/satellite/workspace/design-mode/part4/prototype.cc",
+  "file": "/home/satellite/workspace/design-mode/part4/prototype.cc",
+  "output": "part4/CMakeFiles/prototype.dir/prototype.cc.o"
 }
 ]
