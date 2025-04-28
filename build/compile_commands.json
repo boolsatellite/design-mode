@@ -19,8 +19,8 @@
 },
 {
   "directory": "/home/satellite/workspace/design-mode/build",
-  "command": "/usr/bin/g++ -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -g -o part4/CMakeFiles/prototype.dir/prototype.cc.o -c /home/satellite/workspace/design-mode/part4/prototype.cc",
-  "file": "/home/satellite/workspace/design-mode/part4/prototype.cc",
-  "output": "part4/CMakeFiles/prototype.dir/prototype.cc.o"
+  "command": "/usr/bin/g++ -g -o part9/CMakeFiles/decorator.dir/decorator.cc.o -c /home/satellite/workspace/design-mode/part9/decorator.cc",
+  "file": "/home/satellite/workspace/design-mode/part9/decorator.cc",
+  "output": "part9/CMakeFiles/decorator.dir/decorator.cc.o"
 }
 ]
