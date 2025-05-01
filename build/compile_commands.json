@@ -22,5 +22,11 @@
   "command": "/usr/bin/g++ -g -o part9/CMakeFiles/decorator.dir/decorator.cc.o -c /home/satellite/workspace/design-mode/part9/decorator.cc",
   "file": "/home/satellite/workspace/design-mode/part9/decorator.cc",
   "output": "part9/CMakeFiles/decorator.dir/decorator.cc.o"
+},
+{
+  "directory": "/home/satellite/workspace/design-mode/build",
+  "command": "/usr/bin/g++ -g -o part12/CMakeFiles/proxy.dir/proxy.cc.o -c /home/satellite/workspace/design-mode/part12/proxy.cc",
+  "file": "/home/satellite/workspace/design-mode/part12/proxy.cc",
+  "output": "part12/CMakeFiles/proxy.dir/proxy.cc.o"
 }
 ]

@@ -12,3 +12,6 @@
 /home/satellite/workspace/design-mode/build/part9/CMakeFiles/decorator.dir
 /home/satellite/workspace/design-mode/build/part9/CMakeFiles/edit_cache.dir
 /home/satellite/workspace/design-mode/build/part9/CMakeFiles/rebuild_cache.dir
+/home/satellite/workspace/design-mode/build/part12/CMakeFiles/proxy.dir
+/home/satellite/workspace/design-mode/build/part12/CMakeFiles/edit_cache.dir
+/home/satellite/workspace/design-mode/build/part12/CMakeFiles/rebuild_cache.dir
