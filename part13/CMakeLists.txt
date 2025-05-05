@@ -1,0 +1,1 @@
+add_executable(change_of_responsibility change_of_responsibility.cc)
